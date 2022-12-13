@@ -1,11 +1,3 @@
-/*
-Name: Jason Lee
-Student number: 27524016
-CWL: jlee127
-Lab section: L1Y
-UBC alumni email address: jlee127@student.ubc.ca
-*/
-
 //define constants etc.
 #define size 5
 
